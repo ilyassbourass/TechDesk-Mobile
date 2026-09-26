@@ -12,8 +12,8 @@ The source code is closed-source and is not published here.
 
 ## Download
 
-- Android APK: [TechDesk-Mobile-arm64-final-techdesk-icon.apk](https://github.com/ilyassbourass/TechDesk-Mobile-Releases/releases/download/techdesk-mobile-v2026.05.02/TechDesk-Mobile-arm64-final-techdesk-icon.apk)
-- Release page: [techdesk-mobile-v2026.05.02](https://github.com/ilyassbourass/TechDesk-Mobile-Releases/releases/tag/techdesk-mobile-v2026.05.02)
+- Android APK: [TechDesk-Mobile-arm64-final-techdesk-icon.apk](https://github.com/ilyassbourass/TechDesk-Mobile/releases/download/techdesk-mobile-v2026.05.02/TechDesk-Mobile-arm64-final-techdesk-icon.apk)
+- Release page: [techdesk-mobile-v2026.05.02](https://github.com/ilyassbourass/TechDesk-Mobile/releases/tag/techdesk-mobile-v2026.05.02)
 - APK size: about 24 MB
 - Device target: ARM64 Android phones
 
